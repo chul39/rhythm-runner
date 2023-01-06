@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Tile
+  m_EditorData:
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingParameters:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 21300000, guid: bcfe980e52f653a4ea39c348eb4bcb2c, type: 3}
+    - {fileID: 21300000, guid: 5bf36d705e0b65f44ba4353b0521bc33, type: 3}
+    - {fileID: 21300000, guid: ce7d0e0842ba3184bb660989b87921b9, type: 3}
+    - {fileID: 21300000, guid: bcd2941c628effa4283ba3e64033cb22, type: 3}
+    - {fileID: 21300000, guid: f4bd3eee82f262e489a1794fcd0ed812, type: 3}
+    - {fileID: 21300000, guid: 3ca287f13a489074fb7237b8cf914162, type: 3}
+    - {fileID: 21300000, guid: 1aaa446294ec8cb4fa0e5802fa76ad61, type: 3}
+    - {fileID: 21300000, guid: 74a0d09a67b54ed4aa21bc07deef782a, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 3ca287f13a489074fb7237b8cf914162, type: 3}
+  - {fileID: 21300000, guid: ce7d0e0842ba3184bb660989b87921b9, type: 3}
+  - {fileID: 21300000, guid: 74a0d09a67b54ed4aa21bc07deef782a, type: 3}
+  - {fileID: 21300000, guid: f4bd3eee82f262e489a1794fcd0ed812, type: 3}
+  - {fileID: 21300000, guid: 5bf36d705e0b65f44ba4353b0521bc33, type: 3}
+  - {fileID: 21300000, guid: bcfe980e52f653a4ea39c348eb4bcb2c, type: 3}
+  - {fileID: 21300000, guid: 1aaa446294ec8cb4fa0e5802fa76ad61, type: 3}
+  - {fileID: 21300000, guid: bcd2941c628effa4283ba3e64033cb22, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Tile (4)
+  - Tile (1)
+  - Tile (6)
+  - Tile (3)
+  - Acid (2)
+  - Acid (1)
+  - Tile (5)
+  - Tile (2)
+  m_Tag: Tile
+  m_IsVariant: 0
